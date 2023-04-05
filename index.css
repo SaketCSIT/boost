@@ -1,0 +1,31 @@
+h1
+{
+    text-align: center;
+    margin-bottom: 82px;
+    margin-top:25px ;
+}
+body
+{
+    background-color:white;
+    
+}
+.main
+{
+    
+    /* border-radius: 55px; */
+    margin-right: 45px;
+    margin-left: 45px;
+    margin-top: -45px;
+    border-top-left-radius: 15px;
+    overflow: hidden;
+}
+.vr
+{
+    rotate:90deg;
+    overflow: hidden;
+    height:150em;
+    width: 0.5px;
+    margin-top: -1127px;
+    text-align: center;
+    margin-left: 800px;
+}
